@@ -1,0 +1,108 @@
+					Module : 1 (SDLC).
+
+Q.1 What Is Software? What Is Software Engineering?
+Ans. It Is A Part Of Computer That We Cannot Toch Physically. We Can Just See The Software.
+Software Engineering Is The Branch Of Computer Science That Deals With The Desing,Development,Testing,And MAintenance Of Software
+Applications. Software Engineer Apply Engineering Principles And Knowledge Of Programming Lannguages To Build Software Solutions For End Users.
+
+
+Q.2 Explain Types Of Software ?
+Ans. 5 Types Of Software 
+
+*  Application Software
+*  System Software
+*  Driver Software
+*  Middleware
+*  Programming Software. 
+
+* Application Software :-
+
+-> The most common type of software,application software is a computer software package that performs a specific function
+     for a user, or in some cases, for another application.
+
+-> An application can be self-contained, or it can be a group of programs that run the application for the user.
+
+-> Examples Of Modern Applications include office suites, graphics software,databases and database management programs, Web browsers,
+     Word procesors, software development tools, image editors and communication platforms.
+
+Ex. Microsoft Office,Paint,Powerpoint etc.
+
+* System Software:-
+
+->These Software Programs are designed to run a computer's application programs and hardware.
+
+->System Software coordinate theactivities and function of the hardware and softwere.
+
+->It controls the operations of the computer hardware and provides an environment or platform for all the other types of software to
+   work in.
+->The OS is the best example of system software;it manages all the other computer programs.
+
+->Other examples of system software include the firmare,computer languge translators and system utilities..
+
+Ex. Notepad, Calculator etc..
+
+* Driver Software
+->Also known as device drivers, this software is often considered a typs of  system software.
+
+->Device drivers control the devices and peripherals conncected to a computer, enabling them to perform their specific tasks.
+
+->Every devices that is connected to a computer needs at least one device driver to function.
+
+->Examples include software that comes with any nonstandard hardware, including special game controllers, as well as the software that 
+    enables standard hardware, such as USB storage device, keyboards,headphones and printers.
+
+Ex. AudioDriver, Video Driver etc...
+
+* Middleware 
+->The tern middleware describes software that mediates between application and system or between two different kind of application 
+    software . For Example, middleware enables Microsoft Windowa to talk To Excel and Word.
+
+->It is also used to send a remote work request from an application in a computer that has one kind of OS, to an application in a computer
+   With a different OS. It also enables newer applications to work with legacy ones.
+
+Ex.database middleware, application server middleware.
+
+*Programming Software
+->Computer Programmers use programming software to write code. Programming software and programming tools enable developres
+    to develop, write,test anddebugother software programs.
+->Examples of programming software include assemblers, compilers, debuggers and interpreters.
+
+Ex.Turbo c, Eclipse, Sublime etc...
+
+Q.3 What is SDLC? Explain each phase of SDLC
+Ans. SDLC :- Software Development Life Cycle refers to a methodology with clearly defined processes for creating high-quality
+       software.
+
+-> The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software.
+    in detail, the SDLC methodology focuses on the following phases of software delvopment :
+
+1.Requirment Gathering.
+2.Analysis.
+3.Designing
+4.Implementation.
+5.Testing.
+6.Maintenance.
+
+Q.4 What is DFD?Create a DFD diagram on Flipkart?
+Ans. DFD is the abbreviation for Data Flow Diagram. The flow of data of a system or a process is represented by DFD.
+         It also gives insight into the inputs and output of eachentity and the pocess itself. DFD dose not have control flow 
+         and no loops or decision rules are present. Specific operations depending on the type of data can be explained by 
+         a flowchar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
